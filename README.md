@@ -2,7 +2,10 @@
 ## Dans le cadre de la formation web developer pour BeCode à Bruxelles: voici un exercice de mise en forme de texte avec MarkDown.
 
 ### **Membres du projet:**
-1. Clara Climent
+1. Nicolas Valiacas
+1. Gizem Onur
+2. Morgane Fanon
+3. Clara Climent
 
 ### **Date du début de projet:**
 24/09/2021
