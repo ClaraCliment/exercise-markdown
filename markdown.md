@@ -29,13 +29,14 @@ Découvrez le texte complet de Wikipédia [ici](https://fr.wikipedia.org/wiki/Ma
   * Pamplemousse
 * Poire
 
-#### Titres de différentes importantes et sous-titres:
+#### Titres de différentes importances et sous-titres:
 # Je suis un groooos titre!!
 ## Je suis un gros titre!
 ### Je suis un titre.
 #### Je suis un sous-titre.
 #### Je suis un plus petit sous-titre?
-##### Mais que suis-je?
+##### Mais que suis-je?😭
+
 
 #### Liens
 Si tu veux lire le readme de ce repository, c'est par **[ici](https://github.com/ClaraCliment/exercise-markdown/blob/main/README.md)**!
@@ -43,12 +44,12 @@ Si tu veux lire le readme de ce repository, c'est par **[ici](https://github.com
 
 #### Image statique
 
-[Coding](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg)
+![Coding](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg)
 
 
 #### Image animée
 
-[and coding](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+![and coding](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
 
 #### Du code
