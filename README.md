@@ -22,7 +22,7 @@ Découvrir les différents éléments de mise en page qu'on peut utiliser avec M
 *  one animated image
 *  a bit of code (example)
 
-* Enjoy! *
+###### *Enjoy!*
 
 
 ![wink image](https://i0.wp.com/serialmother.yoopies.fr/wp-content/uploads/clin.jpg?resize=300%2C174&ssl=1)
