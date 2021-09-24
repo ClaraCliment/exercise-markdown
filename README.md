@@ -10,7 +10,7 @@
 ### **Exercice:**
 Découvrir les différents éléments de mise en page qu'on peut utiliser avec MarkDown pour donner forme à nos briefings et autres textes employés sur GitHub.
 
-### **Vous trouverez sur le document markdown.md ces éléments de mise en page:**
+### **Vous trouverez sur le document [markdown.md](https://github.com/ClaraCliment/exercise-markdown/blob/main/markdown.md) ces éléments de mise en page:**
 * an unordered list
 * an ordered list
 * a list within a list
